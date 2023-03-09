@@ -9,7 +9,7 @@ public class Main {
         JSONob.put("name", "Johan");
         JSONob.put("age", 21);
 
-        System.out.println("Mitt namn är " + JSONob.get("namn"));
+        System.out.println("Mitt namn är " + JSONob.get("name"));
         System.out.println("Jag är " + JSONob.get("age"));
     }
 }

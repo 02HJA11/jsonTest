@@ -1,0 +1,15 @@
+{
+  "p1": {
+    "name": "Johan",
+    "age": 21,
+    "favouriteColor": "purple",
+    "data": [1,2,3,4,5]
+  },
+
+  "p2": {
+    "name": "Rosa",
+    "age": 20,
+    "favouriteColor": "pink",
+    "data": ["a","b","c","d","e"]
+  }
+}
